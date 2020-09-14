@@ -1,4 +1,4 @@
-PHP funkcija, kura pārveido jebkuru ierakstītu summu uz summu vārdos. Ir lietderīgs dažādos rēķinu ģeneratoros.
+PHP funkcija, kura pārveido jebkuru ierakstītu summu uz summu vārdos. Ir lietderīga dažādos rēķinu ģeneratoros.
 
 Piemēram:
 - num2str(100) -> viens simts euro un 00 centi.
