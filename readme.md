@@ -5,3 +5,6 @@ Piemēram:
 - 500.55 - > pieci simti eiro un 55 centi.
 
 Galotnes var viegli mainīt.
+
+
+**PS:** *publicēju, jo tā ir reta funkcija, kura ir saglabājusies un tiek aizvien lietota arī pēc 10+ gadiem PHP projektu izstrādē.*
