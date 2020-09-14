@@ -1,4 +1,4 @@
-PHP funkcija, kura pārveido jebkuru ierakstītu summu uz summu vārdos.
+PHP funkcija, kura pārveido jebkuru ierakstītu summu uz summu vārdos. Ir lietderīgs dažādos rēķinu ģeneratoros.
 
 Piemēram:
 - 100 -> viens simts euro un 00 centi.
