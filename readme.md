@@ -7,4 +7,4 @@ Piemēram:
 Galotnes var viegli mainīt.
 
 
-**PS:** *publicēju, jo tā ir reta funkcija, kura ir saglabājusies un tiek aizvien lietota arī pēc 10+ gadiem PHP projektu izstrādē.*
+**PS:** *publicēju, jo tā ir reta funkcija, kura man ir saglabājusies un tiek aizvien lietota arī pēc 10+ gadiem PHP projektu izstrādē.*
